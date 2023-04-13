@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/6vwdh5vhg2l81.gif?width=983&auto=webp&s=310f3e97a676edbe1b4b5f12ee8593ac62cf973c)](https://rwaw.eu/)
+[![MasterHead](https://www.icegif.com/wp-content/uploads/2022/07/icegif-1397.gif)](https://rwaw.eu/)
 
 # 💫 About Me:
 🖥️ Graphics Designer<br>☁️ Web Developer<br>📀 I'm currently learning programming languages such a Lua, Python, C++, C#, JavaScript
