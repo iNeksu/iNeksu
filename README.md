@@ -1,5 +1,4 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/2022/07/icegif-1397.gif)](https://rwaw.eu/)
-
+<span align="center">
 # 💫 About Me:
 🖥️ Graphics Designer<br>☁️ Web Developer<br>📀 I'm currently learning programming languages such a Lua, Python, C++, C#, JavaScript
 
@@ -31,3 +30,4 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iNeksu) 
+</span>
