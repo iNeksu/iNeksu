@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/MiiSaoOtKHgAAAAC/black-background.gif)](https://rwaw.eu/)
+[![MasterHead]([https://media.tenor.com/MiiSaoOtKHgAAAAC/black-background.gif](https://thumbs.gfycat.com/AshamedInferiorIntermediateegret-size_restricted.gif))](https://rwaw.eu/)
 
 # 💫 About Me:
 🖥️ Graphics Designer<br>☁️ Web Developer<br>📀 I'm currently learning programming languages such a Lua, Python, C++, C#, JavaScript
