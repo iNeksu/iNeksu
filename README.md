@@ -1,5 +1,5 @@
-<span align="center" style="text-align: center;">
-# 💫 About Me:
+<span align="center">
+  <h1 align="center"># 💫 About Me:</h1>
 🖥️ Graphics Designer<br>☁️ Web Developer<br>📀 I'm currently learning programming languages such a Lua, Python, C++, C#, JavaScript
 
 
