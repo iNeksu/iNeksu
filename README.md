@@ -1,4 +1,4 @@
-[![MasterHead](https://gfycat.com/ashamedinferiorintermediateegret)](https://rwaw.eu/)
+[![MasterHead](https://preview.redd.it/79hf4zd6g2l81.gif?width=983&auto=webp&s=7ae1674e8130cca8b6c823676956e8fed87af4e2)](https://rwaw.eu/)
 
 # 💫 About Me:
 🖥️ Graphics Designer<br>☁️ Web Developer<br>📀 I'm currently learning programming languages such a Lua, Python, C++, C#, JavaScript
