@@ -1,6 +1,6 @@
 <span align="center">
   <h1 align="center">💫 About Me:</h1>
-🖥️ Graphics Designer<br>☁️ Web Designer<br>📀 I'm currently learning programming languages such a Lua, Python, C++, C#, JavaScript
+🖥️ Graphics Designer<br>☁️ Web Designer<br>📀 I'm currently learning programming languages such a C++, C#
 
 
 ## 🌐 Socials:
